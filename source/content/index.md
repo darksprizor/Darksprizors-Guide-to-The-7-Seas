@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Darksprizor's Guide to The 7 Seas
 ---
 
-Hello world!
-
-Write some words here!
+A simple guide to help with your bucaneering needs
