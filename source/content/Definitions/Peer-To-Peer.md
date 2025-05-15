@@ -1,0 +1,1 @@
+A connection between several personal computers instead of to a server.

@@ -1,0 +1,1 @@
+A form of cyberattack that overloads networks with an excessive number of data requests.

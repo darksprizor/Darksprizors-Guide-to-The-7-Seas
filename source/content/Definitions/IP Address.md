@@ -1,0 +1,1 @@
+A number assigned to all devices connected to the Internet, used to identify your device so that data will be sent to the right place. Bad actors can use your IP Address to find your approximate location and send unwanted data(eg: malware/viruses

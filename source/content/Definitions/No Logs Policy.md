@@ -1,0 +1,1 @@
+A policy that states that the company will not track what you use their service for
